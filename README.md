@@ -23,12 +23,12 @@ l Questions with Answers
 ## Project Structure
 ├── Frontend
 |   ├──src
-│     ├── features
-│     ├── style
-│     ├── style.css
-│     ├── App.jsx
-│     ├── app.routes.jsx
-│     └── main.jsx
+│     ├── features  
+│     ├── style  
+│     ├── style.css  
+│     ├── App.jsx  
+│     ├── app.routes.jsx  
+│     └── main.jsx  
 │
 ├── Backend
 │   ├── src
