@@ -21,25 +21,25 @@ l Questions with Answers
 - **AI & Automation:** Google Gemini AI, Zod
 
 ## Project Structure
-├── Frontend
-|   ├──src
-│     ├── features  
-│     ├── style  
-│     ├── style.css  
-│     ├── App.jsx  
-│     ├── app.routes.jsx  
-│     └── main.jsx  
-│
-├── Backend
-│   ├── src
-│     ├── controllers
-│     ├── middlewares
-│     ├── routes
-│     ├── services
-│     ├── models
-│     └── config
-│     └── app.js
-│   └── server.js
+├── Frontend  
+   ├──src  
+     ├── features  
+     ├── style  
+     ├── style.css  
+     ├── App.jsx  
+     ├── app.routes.jsx  
+     └── main.jsx  
+  
+├── Backend  
+   ├── src  
+     ├── controllers  
+     ├── middlewares  
+     ├── routes  
+     ├── services  
+     ├── models  
+     └── config  
+     └── app.js  
+   └── server.js  
 
 ---
 
